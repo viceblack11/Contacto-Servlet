@@ -37,7 +37,7 @@ public class ContactoServlet extends HttpServlet{
                    printWriter.print("<p>Telefono: " + telefono +"</p>");
                    printWriter.print("<p>Descripcion: " + descripcion +"</p>");
                     printWriter.print("</body>");
-                    printWriter.print("</html>");
+                    printWriter.print("</html >");
                     printWriter.close();
                    
            
